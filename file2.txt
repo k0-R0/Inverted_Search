@@ -1,0 +1,4 @@
+This is another test file.
+It also contains words.
+Hello world from the second file.
+The word hello is repeated here.

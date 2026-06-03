@@ -1,5 +1,8 @@
 #ifndef VALIDATIONS_H
 #define VALIDATIONS_H
-#include "word_info.h"
+
+#include "common.h"
+
 Status validate_files(char *argv[]);
-#endif // !VALIDATIONS_H
+
+#endif
